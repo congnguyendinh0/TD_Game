@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31ac0270-b6c6-49cb-abed-ce9652138e25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../TD_Cong_202/Assets/Imports/WarZone Sci-Fi Turret pack/Source.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD_Cong_202/Assets/Imports/WarZone Sci-Fi Turret pack/Source.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libmonobdwgc-2.0.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Frameworks/UnityPlayer.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Frameworks/libcrypto.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Frameworks/libssl.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MacOS/CovidInvaders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Ageia.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Mono.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Drawing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Transactions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.Postprocessing.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/Unity.VisualEffectGraph.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.BaselibModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.FileSystemHttpModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTrackingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.TimelineModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/Managed/netstandard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Data/data.unity3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/DefaultPreferences.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/KeyConfig.nib/classes.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/KeyConfig.nib/info.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/MainMenu.nib/designable.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/MainMenu.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/Mono.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/PlayerIcon.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/ScreenSelector.nib/classes.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/ScreenSelector.nib/designable.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/ScreenSelector.nib/info.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/UnityPlayerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MacOs/CovidInvaders.app/Contents/Resources/unity default resources" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="29npqbj7pvcHiS5lA43N0ZjbJGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "rider.run.widget.enabled.cache": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2021.3.3f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ac0270-b6c6-49cb-abed-ce9652138e25" name="Changes" comment="" />
+      <created>1653758898578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653758898578</updated>
+      <workItem from="1653758905425" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
